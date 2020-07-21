@@ -1,0 +1,7 @@
+name: WorldManager
+version: ${project.version}
+main: com.foenixe.worldmanager.WorldManager
+api-version: 1.16
+commands:
+  world:
+    aliases: w
